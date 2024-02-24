@@ -1,5 +1,5 @@
 
-# Salary Prediction Readme
+# Salary Prediction
 
 ### Overview
 
